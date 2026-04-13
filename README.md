@@ -38,7 +38,7 @@ I am currently deepening my expertise in **Advanced System Design** and **Data-I
 ### 🌐 Connect with me
 
 * **LinkedIn:** [hassan-mokhtar-saad](https://www.linkedin.com/in/hassan-mokhtar-saad)
-* **Email:** [hassan.mokhtar996@gmail.com](mailto:contact@hassanmokho.com)
+* **Email:** [contact@hassanmokho.com](mailto:contact@hassanmokho.com)
 * **Location:** Cairo, Egypt (Experience in Egypt, KSA, and Jordan markets)
 
 ---
