@@ -41,6 +41,3 @@ Currently exploring advanced patterns in distributed transaction management and 
 [LinkedIn](https://www.linkedin.com/in/hassan-mokhtar-saad )
 [Email](mailto:hassan.mokhtar996@gmail.com)
 
----
-
-*This README is dynamically generated and updated. Last updated: [Current Date]*
